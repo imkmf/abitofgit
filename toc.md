@@ -1,5 +1,4 @@
-Table of Contents
-===
+# Table of Contents
 
 1. Learning the ABO way
 2. Installing Git
